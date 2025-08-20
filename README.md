@@ -130,24 +130,28 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Graph & Profile Views
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img 
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=ziadbadr1&theme=radical&hide_border=true&custom_title=Contribution%20Graph" 
-    alt="GitHub Activity Graph" 
-  />
-</a>
-
----
-
-### 👁️ Profile Views
-
-<img 
-  src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge" 
-  alt="Profile Views" 
-/>
-
+<table>
+  <tr>
+    <td align="center">
+      <b>📈 Contribution Graph</b><br/>
+      <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+        <img
+          src="https://github-readme-activity-graph.vercel.app/graph?username=ziadbadr1&theme=radical&hide_border=true&custom_title=Contribution%20Graph"
+          alt="GitHub Activity Graph"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <b>👁️ Profile Views</b><br/>
+      <img
+        src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge"
+        alt="Profile Views"
+      />
+    </td>
+  </tr>
+</table>
 </div>
 
 
