@@ -1,24 +1,21 @@
 ### Hi there 👋
 
-<!-- Profile Image + Header Side by Side -->
+<!-- Header + GIF + Typing SVG All Centered in One Row -->
 <table width="100%">
   <tr>
-    <td width="100%">
-      <h3 align="center">
+    <td align="center" width="75%">
+      <h3>
         Welcome to Ziad Mahmoud's GitHub Profile!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
       </h3>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20Laravel%20Developer;2%2B%20Years%20of%20Experience;Problem%20Solver%20and%20Clean%20Code;Always%20Learning%20%26%20Building!&font=Fira%20Code&center=true&width=700&height=45&color=F75C7E&vCenter=true&size=22">
     </td>
-    <td>
+    <td align="center" width="25%">
       <img width="200" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF">
     </td>
   </tr>
 </table>
 
-<!-- Typing SVG Centered -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20Laravel%20Developer;2%2B%20Years%20of%20Experience;Problem%20Solver%20and%20Clean%20Code%20;Always%20Learning%20%26%!&font=Fira%20Code&center=true&width=700&height=45&color=F75C7E&vCenter=true&size=22">
-</p>
 
 
 ---
