@@ -96,6 +96,8 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
@@ -130,10 +132,12 @@
 
 ### 📈 Contribution Graph
 
-<img 
-  src="https://activity-graph.herokuapp.com/graph?username=ziadbadr1&theme=radical" 
-  alt="Contribution Graph" 
-/>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img 
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=ziadbadr1&theme=radical&hide_border=true&custom_title=Contribution%20Graph" 
+    alt="GitHub Activity Graph" 
+  />
+</a>
 
 ---
 
@@ -145,18 +149,6 @@
 />
 
 </div>
-
-
-<p align="center">
-  <b>GitHub Streak</b><br/>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ziadbadr1&theme=radical" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-
-
 
 
 
