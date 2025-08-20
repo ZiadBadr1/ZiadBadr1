@@ -21,7 +21,7 @@
 ---
 ## 🏆 Achievements
 
-- 🚀 Built and deployed **10+ production-grade Laravel systems** from scratch, serving thousands of users.
+- 🚀 Built and deployed **5+ production-grade Laravel systems** from scratch, serving thousands of users.
 - 📈 Reduced server load by **70%** by integrating Google Drive API and optimizing file handling on large LMS platforms.
 - 🛠️ Improved **code quality by 30%** through SOLID principles, Service Layer Architecture, and mentoring junior developers.
 - 📚 Developed the backend of **Maharat Al-Mobdioon** (used by 30,000+ users)
@@ -30,6 +30,8 @@
 - 🔒 Implemented **secure OAuth login** and third-party integrations across multiple platforms (Google Auth, etc.).
 - 🎓 Mentored 2 junior developers and contributed to faster team onboarding and better maintainability practices.
 - 🌐 Successfully delivered systems across diverse domains: LMS, E-commerce, Finance, Hiring, and Government.
+
+---
 
 ## 👨‍💻 About Me
 
@@ -52,7 +54,7 @@
 - 📊 [Shoghlana](https://shoghlana.org/) — Recruitment platform 
 - 💼 [BMK](https://bmk.com.sa/ar) — Investment platform under Saudi Ministry of Finance
 - 📊 [Career Hub](https://career-hub.co/) — Recruitment platform with Google Auth integration
-
+- 🌐 Check my portfolio: [ziadbadr.netlify.app](https://ziadbadr.netlify.app/)
 ---
 
 ## 🛠 Tech Stack
@@ -95,18 +97,43 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <!-- Public commits only -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&theme=radical" 
+    height="180" 
+    alt="Public GitHub Stats" 
+  />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadbadr1&layout=compact&theme=radical" height="180" alt="Top Languages" />
+  <!-- All commits including private (visible only to you) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+    height="180" 
+    alt="All Commits (Public + Private)" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadbadr1&theme=radical" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadbadr1&layout=compact&theme=radical" 
+    height="180" 
+    alt="Top Languages" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge" alt="Profile Views" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ziadbadr1&theme=radical" 
+    alt="GitHub Streak" 
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge" 
+    alt="Profile Views" 
+  />
+</p>
+
 
 ---
 
