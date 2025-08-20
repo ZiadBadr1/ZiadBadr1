@@ -21,7 +21,7 @@
 ---
 ## 🏆 Achievements
 
-- 🚀 Built and deployed **5+ production-grade Laravel systems** from scratch, serving thousands of users.
+- 🚀 Built and deployed **10+ production-grade Laravel systems** from scratch, serving thousands of users.
 - 📈 Reduced server load by **70%** by integrating Google Drive API and optimizing file handling on large LMS platforms.
 - 🛠️ Improved **code quality by 30%** through SOLID principles, Service Layer Architecture, and mentoring junior developers.
 - 📚 Developed the backend of **Maharat Al-Mobdioon** (used by 30,000+ users)
@@ -94,12 +94,19 @@
 
 ## 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadbadr1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-<br clear="both">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadbadr1&layout=compact&theme=radical" height="180" alt="Top Languages" />
+</p>
 
-<a href="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge" alt="Profile Views">
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadbadr1&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
