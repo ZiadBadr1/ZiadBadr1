@@ -97,27 +97,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <b>Public Commits Only</b><br/>
+  <b>Total Commits (Public + Private)</b><br/>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&count_private=true&include_all_commits=true&theme=radical" 
     height="180" 
-    alt="Public GitHub Stats" 
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>All Commits (Public + Private)</b><br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
-    height="180" 
-    alt="All Commits (Public + Private)" 
-  />
-</p>
-
-<p align="center">
-  <b>Total Contributions (Including Private)</b><br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&count_private=true&theme=radical" 
-    height="180" 
-    alt="Total Contributions" 
+    alt="Total Commits (Public + Private)" 
   />
 </p>
 
