@@ -96,23 +96,56 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <b>Total Commits (Public + Private)</b><br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&count_private=true&include_all_commits=true&theme=radical" 
-    height="180" 
-    alt="Total Commits (Public + Private)" 
-  />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>🔥 Total Commits (Public + Private)</b><br/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&count_private=true&include_all_commits=true&theme=radical" 
+        height="180" 
+        alt="Total Commits" 
+      />
+    </td>
+    <td align="center">
+      <b>🧠 Top Languages</b><br/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadbadr1&layout=compact&theme=radical" 
+        height="180" 
+        alt="Top Languages" 
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>Top Languages</b><br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadbadr1&layout=compact&theme=radical" 
-    height="180" 
-    alt="Top Languages" 
-  />
-</p>
+---
+
+### 🔁 GitHub Streak
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ziadbadr1&theme=radical" 
+  alt="GitHub Streak" 
+/>
+
+---
+
+### 📈 Contribution Graph
+
+<img 
+  src="https://activity-graph.herokuapp.com/graph?username=ziadbadr1&theme=radical" 
+  alt="Contribution Graph" 
+/>
+
+---
+
+### 👁️ Profile Views
+
+<img 
+  src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge" 
+  alt="Profile Views" 
+/>
+
+</div>
+
 
 <p align="center">
   <b>GitHub Streak</b><br/>
@@ -122,21 +155,8 @@
   />
 </p>
 
-<p align="center">
-  <b>Contribution Graph</b><br/>
-  <img 
-    src="https://activity-graph.herokuapp.com/graph?username=ziadbadr1&theme=radical" 
-    alt="Contribution Graph" 
-  />
-</p>
 
-<p align="center">
-  <b>Profile Views</b><br/>
-  <img 
-    src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge" 
-    alt="Profile Views" 
-  />
-</p>
+
 
 
 
