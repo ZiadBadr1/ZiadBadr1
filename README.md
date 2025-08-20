@@ -19,6 +19,17 @@
 
 
 ---
+## 🏆 Achievements
+
+- 🚀 Built and deployed **5+ production-grade Laravel systems** from scratch, serving thousands of users.
+- 📈 Reduced server load by **70%** by integrating Google Drive API and optimizing file handling on large LMS platforms.
+- 🛠️ Improved **code quality by 30%** through SOLID principles, Service Layer Architecture, and mentoring junior developers.
+- 📚 Developed the backend of **Maharat Al-Mobdioon** (used by 30,000+ users)
+- 🧠 Refactored legacy Laravel codebase using design patterns, reducing complexity by **25%** and speeding up onboarding.
+- 🏗️ Designed a **secure and scalable database architecture** for an investment platform under the **Saudi Ministry of Finance**.
+- 🔒 Implemented **secure OAuth login** and third-party integrations across multiple platforms (Google Auth, etc.).
+- 🎓 Mentored 2 junior developers and contributed to faster team onboarding and better maintainability practices.
+- 🌐 Successfully delivered systems across diverse domains: LMS, E-commerce, Finance, Hiring, and Government.
 
 ## 👨‍💻 About Me
 
@@ -32,6 +43,15 @@
   - 💸 Finance & Payment Systems
   - 🎓 E-Learning portals
 - 💬 Ask me about **Laravel, APIs, MySQL, SOLID principles, MVC/HMVC**, and more!
+
+---
+## 🚀 Featured Projects
+
+- 🎓 [Maharat Al-Mobdioon](https://mharat-almobdioon.com/ar) — LMS for King Abdulaziz University (30K+ users)
+- 🧠 [Bader Tech](https://badertech.com.sa/ar) — Full e-learning platform with online & offline support
+- 📊 [Shoghlana](https://shoghlana.org/) — Recruitment platform 
+- 💼 [BMK](https://bmk.com.sa/ar) — Investment platform under Saudi Ministry of Finance
+- 📊 [Career Hub](https://career-hub.co/) — Recruitment platform with Google Auth integration
 
 ---
 
