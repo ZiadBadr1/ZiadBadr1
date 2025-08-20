@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF">
+<h3 align="center">
+  <img width="120" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF">
+  Welcome to Ziad Mahmoud's GitHub Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 
 <h3 align="center">
   Welcome to Ziad Mahmoud's GitHub Profile!
@@ -8,9 +13,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20Laravel%20Developer;2%20Years%20Experience;Problem%20Solver%20%26%20Clean%20Code%20Advocate;Always%20learning%20and%20building!&font=Fira%20Code&center=true&width=440&height=45&color=F75C7E&vCenter=true&size=22">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20Laravel%20Developer;2%2B%20Years%20of%20Experience;Problem%20Solver%20and%20Clean%20Code%20Advocate;Always%20Learning%20%26%20Building!&font=Fira%20Code&center=true&width=700&height=45&color=F75C7E&vCenter=true&size=22">
 </p>
 
 ---
