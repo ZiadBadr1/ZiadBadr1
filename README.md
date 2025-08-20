@@ -97,14 +97,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Public commits only -->
+  <b>Public Commits Only</b><br/>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&theme=radical" 
     height="180" 
     alt="Public GitHub Stats" 
   />
-  &nbsp;&nbsp;
-  <!-- All commits including private (visible only to you) -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>All Commits (Public + Private)</b><br/>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
     height="180" 
@@ -113,6 +113,16 @@
 </p>
 
 <p align="center">
+  <b>Total Contributions (Including Private)</b><br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ziadbadr1&show_icons=true&count_private=true&theme=radical" 
+    height="180" 
+    alt="Total Contributions" 
+  />
+</p>
+
+<p align="center">
+  <b>Top Languages</b><br/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadbadr1&layout=compact&theme=radical" 
     height="180" 
@@ -121,6 +131,7 @@
 </p>
 
 <p align="center">
+  <b>GitHub Streak</b><br/>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ziadbadr1&theme=radical" 
     alt="GitHub Streak" 
@@ -128,11 +139,21 @@
 </p>
 
 <p align="center">
+  <b>Contribution Graph</b><br/>
+  <img 
+    src="https://activity-graph.herokuapp.com/graph?username=ziadbadr1&theme=radical" 
+    alt="Contribution Graph" 
+  />
+</p>
+
+<p align="center">
+  <b>Profile Views</b><br/>
   <img 
     src="https://komarev.com/ghpvc/?username=ziadbadr1&style=for-the-badge" 
     alt="Profile Views" 
   />
 </p>
+
 
 
 ---
