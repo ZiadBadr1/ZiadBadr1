@@ -3,7 +3,7 @@
 <!-- Profile Image + Header Side by Side -->
 <table width="100%">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h3 align="center">
         Welcome to Ziad Mahmoud's GitHub Profile!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
