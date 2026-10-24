@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td><b>Now</b></td>
-    <td>Backend Developer at <b>Awqaf UAE</b> (via MVP Apps), onsite in Abu Dhabi since Feb 2026</td>
+    <td>Backend Developer at <b>Awqaf UAE</b> (via MVP Application &amp; Game Design), onsite in Abu Dhabi since Feb 2026</td>
   </tr>
   <tr>
     <td><b>Core stack</b></td>
@@ -70,7 +70,7 @@
 ## 🛰️ What I'm working on now
 
 > **Backend Developer · Awqaf UAE** (General Authority of Islamic Affairs, Endowments and Zakat)
-> *Outsourced via MVP Apps · Feb 2026 – Present · Abu Dhabi, onsite*
+> *Outsourced via MVP Application & Game Design · Feb 2026 – Present · Abu Dhabi, onsite*
 
 - **Hajj Live Tracking System:** built the backend that streams pilgrims' locations in real time
 - **Awqaf website and internal systems:** backend services for the main government website and enterprise tools
@@ -84,12 +84,14 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🛰️ **Hajj Live Tracking** <br/><sub>Awqaf UAE · internal</sub> | Real-time location tracking for pilgrims during Hajj | NestJS · .NET · Redis · Hangfire · SQL Server |
-| 🕌 [**Awqaf Website Services**](https://www.awqaf.gov.ae/) <br/><sub>UAE government</sub> | Backend services behind the official Awqaf website | Node.js · NestJS · MongoDB · Redis |
+| 🛰️ **Hajj Live Tracking** <br/><sub>Awqaf UAE · internal</sub> | Real-time location tracking for pilgrims during Hajj | Node.js · NestJS · Redis · DDD |
+| 🕌 [**Awqaf Website Services**](https://www.awqaf.gov.ae/) <br/><sub>UAE government</sub> | Backend services behind the official Awqaf website | .NET · C# · Redis |
 | 🎓 [**Maharat Al-Mobdioon**](https://mharat-almobdioon.com/ar) <br/><sub>King Abdulaziz University</sub> | LMS serving 40,000+ users; cut server load by 70% | Laravel · MySQL · Google Drive API |
 | 💼 [**BMK**](https://bmk.com.sa/ar) <br/><sub>Saudi Ministry of Finance</sub> | Investment funds platform with multi-step registration | Laravel · MySQL |
 | 🧠 [**Bader Tech**](https://badertech.com.sa/ar) <br/><sub>Saudi Arabia</sub> | Full e-learning platform, built from scratch | Laravel · Payments |
 | ⌚ [**Caliber**](https://caliber.ae/) <br/><sub>UAE</sub> | Luxury watches platform: backend, APIs and deployment | Laravel · REST APIs |
+| 📊 [**Career Hub**](https://career-hub.co/) | Recruitment platform with Google Auth | Laravel · OAuth |
+
 ---
 
 ## 🧰 Tech stack
